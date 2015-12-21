@@ -3,4 +3,4 @@
 
 Materialize, just an npm package for a SCSS download from CSS Framework Materialize
 
-### Current Version : v0.97.3
+### Current Version : v0.97.4
